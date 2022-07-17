@@ -1,0 +1,15 @@
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\bin\Debug\net6.0\csharp-study.exe
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\bin\Debug\net6.0\csharp-study.deps.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\bin\Debug\net6.0\csharp-study.runtimeconfig.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\bin\Debug\net6.0\csharp-study.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\bin\Debug\net6.0\csharp-study.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.csproj.AssemblyReference.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.AssemblyInfoInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.AssemblyInfo.cs
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\refint\csharp-study.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\csharp-study.genruntimeconfig.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\obj\Debug\net6.0\ref\csharp-study.dll
