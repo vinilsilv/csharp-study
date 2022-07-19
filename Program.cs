@@ -24,13 +24,17 @@ class Program
 {
     static void Main()
     {
-        string[] names = { "Peter", "James" };
+        string[] names = { "Freddi", "James" };
 
         // for (int i = 0; i < names.Length; i++)
         // {
         //     Console.WriteLine(names[i]);
         // }
 
+        if (string.Equals(names[0], "freddi", StringComparison.OrdinalIgnoreCase))
+        {
+            Console.WriteLine("Igual");
+        }
         foreach (string name in names)
         {
             Console.WriteLine(name);
