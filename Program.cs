@@ -42,26 +42,55 @@
 //     }
 // }
 
+// class Program
+// {
+//     static void Main()
+//     {
+//         string name = "Freddi";
+//         string[] names = { "John", "James" };
+
+//         int varLength = name.Length; // 6
+//         bool varEndWith = name.EndsWith("a"); // false  
+//         bool varStartsWith = name.StartsWith("a"); // false
+//         bool varContains = name.Contains('a'); // false
+
+//         int varIndexOf = name.IndexOf("e"); // 2
+//         int variableIndexOf = name.IndexOf("a"); // -1
+
+//         bool varNullOrEmpty = string.IsNullOrEmpty(name); // false
+//         string varJoined = string.Join(' ', names); // John James
+
+//         // Aspas únicas para um caractere, aspas duplas para mais que um caractere
+
+//         Console.WriteLine(varJoined);
+//     }
+// }
+
 class Program
 {
     static void Main()
     {
-        string name = "Freddi";
-        string[] names = { "John", "James" };
+        int i = 10;
+        int i2 = i;
+        i2 = 20;
 
-        int varLength = name.Length; // 6
-        bool varEndWith = name.EndsWith("a"); // false  
-        bool varStartsWith = name.StartsWith("a"); // false
-        bool varContains = name.Contains('a'); // false
+        Test t = new Test();
+        t.x = 10;
 
-        int varIndexOf = name.IndexOf("e"); // 2
-        int variableIndexOf = name.IndexOf("a"); // -1
+        Test t2 = t;
+        t2.x = 20;
 
-        bool varNullOrEmpty = string.IsNullOrEmpty(name); // false
-        string varJoined = string.Join(' ', names); // John James
+        long l = 200;
 
-        // Aspas únicas para um caractere, aspas duplas para mais que um caractere
+        i = (int)l;
 
-        Console.WriteLine(varJoined);
+        string s = l.ToString();
+
+        Console.WriteLine(t.x);
     }
+}
+
+class Test
+{
+    public int x;
 }
