@@ -1,2 +1,2 @@
 # C# Study
-A project made to study C# and .NET
+A project made to study C#
