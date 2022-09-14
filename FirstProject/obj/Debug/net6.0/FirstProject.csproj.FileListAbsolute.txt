@@ -1,0 +1,15 @@
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\bin\Debug\net6.0\FirstProject.exe
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\bin\Debug\net6.0\FirstProject.deps.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\bin\Debug\net6.0\FirstProject.runtimeconfig.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\bin\Debug\net6.0\FirstProject.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\bin\Debug\net6.0\FirstProject.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.AssemblyInfo.cs
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\refint\FirstProject.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\FirstProject.genruntimeconfig.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\FirstProject\obj\Debug\net6.0\ref\FirstProject.dll
