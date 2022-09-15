@@ -32,7 +32,12 @@ namespace FirstProject
 
             object obj1 = "Alex";
 
-            Console.WriteLine(obj1);
+
+            int maxVal = int.MaxValue;
+            int minVal = int.MinValue;
+            // Works for int, sbyte, long, decimal, etc...
+
+            Console.WriteLine(minVal);
 
         }
     }
