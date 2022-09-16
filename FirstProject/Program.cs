@@ -37,8 +37,11 @@ namespace FirstProject
             int minVal = int.MinValue;
             // Works for int, sbyte, long, decimal, etc...
 
-            Console.WriteLine(minVal);
+            int age = 40;
 
+            Console.WriteLine("{0} is {1} years old.", name, age);
+            Console.WriteLine($"{name} is {age} years old.");
+            Console.WriteLine(name + " is " + age + " years old.");
         }
     }
 }
