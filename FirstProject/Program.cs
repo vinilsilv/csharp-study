@@ -39,9 +39,15 @@ namespace FirstProject
 
             int age = 40;
 
-            Console.WriteLine("{0} is {1} years old.", name, age);
-            Console.WriteLine($"{name} is {age} years old.");
-            Console.WriteLine(name + " is " + age + " years old.");
+            // Console.WriteLine("{0} is {1} years old.", name, age);
+            // Console.WriteLine($"{name} is {age} years old.");
+            // Console.WriteLine(name + " is " + age + " years old.");
+
+            // string phrase = Console.ReadLine();
+
+            string[] vet = Console.ReadLine().Split(' ');
+
+            Console.WriteLine(vet[0]);
         }
     }
 }
