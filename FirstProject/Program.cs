@@ -24,16 +24,16 @@ namespace FirstProject
             // long n3 = 2147483648L;
             // float n4 = 4.5f;
             // double n5 = 4.5;
-             
+
             // char initial = 'V';
             // char unicodeLetter = '\u0041';
             // string name = "Joe";
-             
+
             // bool isTrue = false;
-             
+
             // object obj1 = "Alex";
-             
-             
+
+
             // int maxVal = int.MaxValue;
             // int minVal = int.MinValue;
             // Works for int, sbyte, long, decimal, etc...
@@ -52,17 +52,29 @@ namespace FirstProject
             // char ch = char.Parse(Console.ReadLine());
             // double num2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            string[] vet = Console.ReadLine().Split(' ');
-            string name = vet[0];
-            char gender = char.Parse(vet[1]);
-            int age = int.Parse(vet[2]);
-            double height = double.Parse(vet[3], CultureInfo.InvariantCulture);
+            // string[] vet = Console.ReadLine().Split(' ');
+            // string name = vet[0];
+            // char gender = char.Parse(vet[1]);
+            // int age = int.Parse(vet[2]);
+            // double height = double.Parse(vet[3], CultureInfo.InvariantCulture);
 
+            // Console.WriteLine(name);
+            // Console.WriteLine(gender);
+            // Console.WriteLine(age);
+            // Console.WriteLine(height);
 
-            Console.WriteLine(name);
-            Console.WriteLine(gender);
-            Console.WriteLine(age);
-            Console.WriteLine(height);
+            int a = 10;
+            bool c1 = a < 10;
+            bool c2 = a > 10;
+            bool c3 = a <= 10;
+            bool c4 = a >= 10;
+            bool c5 = a == 10;
+            bool c6 = a != 10;
+
+            Console.WriteLine(c1);
+            Console.WriteLine(c2); 
+            Console.WriteLine(c3);
+            Console.WriteLine(c4);
         }
     }
 }
