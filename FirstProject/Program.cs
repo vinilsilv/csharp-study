@@ -63,18 +63,26 @@ namespace FirstProject
             // Console.WriteLine(age);
             // Console.WriteLine(height);
 
-            int a = 10;
-            bool c1 = a < 10;
-            bool c2 = a > 10;
-            bool c3 = a <= 10;
-            bool c4 = a >= 10;
-            bool c5 = a == 10;
-            bool c6 = a != 10;
+            // int a = 10;
+            // bool c1 = a < 10;
+            // bool c2 = a > 10;
+            // bool c3 = a <= 10;
+            // bool c4 = a >= 10;
+            // bool c5 = a == 10;
+            // bool c6 = a != 10;
+
+            // Console.WriteLine(c1);
+            // Console.WriteLine(c2); 
+            // Console.WriteLine(c3);
+            // Console.WriteLine(c4);
+
+            bool c1 = 2 > 3 && 4 != 5;
+            bool c2 = 2 > 3 || 4 != 5;
+            bool c3 = !(2 > 3);
 
             Console.WriteLine(c1);
-            Console.WriteLine(c2); 
+            Console.WriteLine(c2);
             Console.WriteLine(c3);
-            Console.WriteLine(c4);
         }
     }
 }
