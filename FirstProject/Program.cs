@@ -76,13 +76,33 @@ namespace FirstProject
             // Console.WriteLine(c3);
             // Console.WriteLine(c4);
 
-            bool c1 = 2 > 3 && 4 != 5;
-            bool c2 = 2 > 3 || 4 != 5;
-            bool c3 = !(2 > 3);
+            // bool c1 = 2 > 3 && 4 != 5;
+            // bool c2 = 2 > 3 || 4 != 5;
+            // bool c3 = !(2 > 3);
 
-            Console.WriteLine(c1);
-            Console.WriteLine(c2);
-            Console.WriteLine(c3);
+            // Console.WriteLine(c1);
+            // Console.WriteLine(c2);
+            // Console.WriteLine(c3);
+
+            bool c1 = true;
+            bool c2 = false;
+
+            if (c2)
+            {
+                Console.WriteLine("First if");
+            }
+            else if (!c2 && !c1)
+            {
+                Console.WriteLine("Second if");
+            }
+            else if (!c1)
+            {
+                Console.WriteLine("Third if");
+            }
+            else
+            {
+                Console.WriteLine("Fourth if");
+            }
         }
     }
 }
