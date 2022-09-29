@@ -84,25 +84,50 @@ namespace FirstProject
             // Console.WriteLine(c2);
             // Console.WriteLine(c3);
 
-            bool c1 = true;
-            bool c2 = false;
+            // bool c1 = true;
+            // bool c2 = false;
 
-            if (c2)
+            // if (c2)
+            // {
+            //     Console.WriteLine("First if");
+            // }
+            // else if (!c2 && !c1)
+            // {
+            //     Console.WriteLine("Second if");
+            // }
+            // else if (!c1)
+            // {
+            //     Console.WriteLine("Third if");
+            // }
+            // else
+            // {
+            //     Console.WriteLine("Fourth if");
+            // }
+
+            Console.WriteLine("Type three numbers:");
+            int n1 = int.Parse(Console.ReadLine());
+            int n2 = int.Parse(Console.ReadLine());
+            int n3 = int.Parse(Console.ReadLine());
+
+            double result = Greater(n1, n2, n3);
+            Console.WriteLine($"The greater number is {result}");
+        }
+
+        static int Greater(int n1, int n2, int n3)
+        {
+            int greater;
+            if (n1 > n2 && n1 > n3)
             {
-                Console.WriteLine("First if");
-            }
-            else if (!c2 && !c1)
+                greater = n1;
+            } else if (n2 > n1 && n2 > n3)
             {
-                Console.WriteLine("Second if");
-            }
-            else if (!c1)
+                greater = n2;
+            } else
             {
-                Console.WriteLine("Third if");
+                greater = n3;
             }
-            else
-            {
-                Console.WriteLine("Fourth if");
-            }
+
+            return greater;
         }
     }
 }
