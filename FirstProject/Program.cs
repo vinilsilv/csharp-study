@@ -112,20 +112,35 @@ namespace FirstProject
             // double result = Greater(n1, n2, n3);
             // Console.WriteLine($"The greater number is {result}");
 
-            Console.Write("Type a number: ");
-            double num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            // Console.Write("Type a number: ");
+            // double num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            // 
+            // while(num1 >= 0)
+            // {
+            //     Console.WriteLine($"{num1} is a positive number");
+            //     Console.Write("Type another number: ");
+            // 
+            //     num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            // }
+            // 
+            // Console.WriteLine($"{num1} is a negative number");
 
-            while(num1 >= 0)
+            Console.Write("How many numbers will you type? ");
+            int amount = int.Parse(Console.ReadLine());
+
+            int sum = 0;
+
+            for (int i = 1; i <= amount; i++)
             {
-                Console.WriteLine($"{num1} is a positive number");
-                Console.Write("Type another number: ");
-
-                num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write($"Value #{i}: ");
+                int value = int.Parse(Console.ReadLine());
+                sum += value;
             }
 
-            Console.WriteLine($"{num1} is a negative number");
+            Console.WriteLine($"The total sum is {sum}");
 
-            
+
+
         }
 
         // static int Greater(int n1, int n2, int n3)
