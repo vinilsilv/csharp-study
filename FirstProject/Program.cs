@@ -104,30 +104,45 @@ namespace FirstProject
             //     Console.WriteLine("Fourth if");
             // }
 
-            Console.WriteLine("Type three numbers:");
-            int n1 = int.Parse(Console.ReadLine());
-            int n2 = int.Parse(Console.ReadLine());
-            int n3 = int.Parse(Console.ReadLine());
+            // Console.WriteLine("Type three numbers:");
+            // int n1 = int.Parse(Console.ReadLine());
+            // int n2 = int.Parse(Console.ReadLine());
+            // int n3 = int.Parse(Console.ReadLine());
+            // 
+            // double result = Greater(n1, n2, n3);
+            // Console.WriteLine($"The greater number is {result}");
 
-            double result = Greater(n1, n2, n3);
-            Console.WriteLine($"The greater number is {result}");
-        }
+            Console.Write("Type a number: ");
+            double num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        static int Greater(int n1, int n2, int n3)
-        {
-            int greater;
-            if (n1 > n2 && n1 > n3)
+            while(num1 >= 0)
             {
-                greater = n1;
-            } else if (n2 > n1 && n2 > n3)
-            {
-                greater = n2;
-            } else
-            {
-                greater = n3;
+                Console.WriteLine($"{num1} is a positive number");
+                Console.Write("Type another number: ");
+
+                num1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
-            return greater;
+            Console.WriteLine($"{num1} is a negative number");
+
+            
         }
+
+        // static int Greater(int n1, int n2, int n3)
+        // {
+        //     int greater;
+        //     if (n1 > n2 && n1 > n3)
+        //     {
+        //         greater = n1;
+        //     } else if (n2 > n1 && n2 > n3)
+        //     {
+        //         greater = n2;
+        //     } else
+        //     {
+        //         greater = n3;
+        //     }
+        // 
+        //     return greater;
+        // }
     }
 }
