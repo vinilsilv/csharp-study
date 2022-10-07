@@ -1,0 +1,15 @@
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\bin\Debug\net6.0\ProductStock.exe
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\bin\Debug\net6.0\ProductStock.deps.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\bin\Debug\net6.0\ProductStock.runtimeconfig.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\bin\Debug\net6.0\ProductStock.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\bin\Debug\net6.0\ProductStock.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.csproj.AssemblyReference.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.AssemblyInfoInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.AssemblyInfo.cs
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\refint\ProductStock.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ProductStock.genruntimeconfig.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\ProductStock\obj\Debug\net6.0\ref\ProductStock.dll
