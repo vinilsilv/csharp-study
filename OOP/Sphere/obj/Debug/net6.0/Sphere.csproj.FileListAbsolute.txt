@@ -1,0 +1,15 @@
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\bin\Debug\net6.0\Sphere.exe
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\bin\Debug\net6.0\Sphere.deps.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\bin\Debug\net6.0\Sphere.runtimeconfig.json
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\bin\Debug\net6.0\Sphere.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\bin\Debug\net6.0\Sphere.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.csproj.AssemblyReference.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.AssemblyInfoInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.AssemblyInfo.cs
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\refint\Sphere.dll
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.pdb
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\Sphere.genruntimeconfig.cache
+C:\Users\vinicius.ribeiro\zzzV\Projects\csharp-study\OOP\Sphere\obj\Debug\net6.0\ref\Sphere.dll
