@@ -12,17 +12,17 @@ namespace Constructor
             string name = Console.ReadLine();
             Console.Write("Price: ");
             double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Amount in stock: ");
-            int amount = int.Parse(Console.ReadLine());
+            // Console.Write("Amount in stock: ");
+            // int amount = int.Parse(Console.ReadLine());
 
-            Product p = new Product(name, price, amount);
+            Product p = new Product(name, price);
 
             Console.WriteLine();
             Console.WriteLine($"Product data: {p}");
 
             Console.WriteLine();
             Console.Write("Type the amount of products to be added to stock: ");
-            amount = int.Parse(Console.ReadLine());
+            int amount = int.Parse(Console.ReadLine());
             p.AddProducts(amount);
 
             Console.WriteLine();
