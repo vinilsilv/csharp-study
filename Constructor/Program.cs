@@ -15,7 +15,12 @@ namespace Constructor
             // Console.Write("Amount in stock: ");
             // int amount = int.Parse(Console.ReadLine());
 
-            Product p = new Product(name, price);
+            Product p2 = new Product
+            {
+                Name = "TV",
+                Price = 500,
+                Amount = 20
+            };
 
             Console.WriteLine();
             Console.WriteLine($"Product data: {p}");

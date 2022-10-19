@@ -18,13 +18,6 @@ namespace Constructor
 
         }
 
-        public Product(string name, double price, int amount)
-        {
-            Name = name;
-            Price = price;
-            Amount = amount;
-        }
-
         public Product(string name, double price)
         {
             Name = name;
