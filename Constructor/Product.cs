@@ -9,43 +9,61 @@ namespace Constructor
 {
     internal class Product
     {
-        public string Name;
-        public double Price;
-        public int Amount;
+        private string _name;
+        private double _price;
+        private int _amount;
 
         public Product()
         {
-            Amount = 10;
         }
 
-        public Product(string name, double price) : this()
+        public Product(string name, double price, int amount) : this()
         {
-            Name = name;
-            Price = price;
+            _name = name;
+            _price = price;
+            _amount = amount;
         }
 
-        public Product(string name, double price, int amount) : this(name, price)
+        public string GetName()
         {
-            Amount = amount;
-        }   
+            return _name;
+        }
+
+        public void SetName(string name)
+        {
+            if (name != null && name.Length > 1)
+            {
+                _name = name;
+            }
+        }
+
+        public double GetPrice()
+        {
+            return _price;
+        }
+
+        public int GetAmount()
+        {
+            return _amount;
+        }
 
         public double InStockTotalValue() {
-            return Price * Amount;
+            return _price * _amount;
         }
 
         public void AddProducts(int amount)
         {
-            Amount += amount;
+            _amount += amount;
         }
 
         public void RemoveProducts(int amount)
         {
-            Amount -= amount;
+            _amount -= amount;
         }
 
         public override string ToString()
         {
-            return $"{Name}, $ {Price.ToString("F2", CultureInfo.InvariantCulture)}, {Amount} units, Total: $ {InStockTotalValue().ToString("F2", CultureInfo.InvariantCulture)}";
+            return $"{_name}, $ {_price.ToString("F2", CultureInfo.InvariantCulture)}, {_amount} units, Total: $ {InStockTotalValue().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }
